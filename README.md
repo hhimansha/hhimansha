@@ -83,16 +83,15 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Github Stats
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr style="border: none;">
-    <td valign="top" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=hhimansha&theme=dark&show_icons=true" align="left" style="width: 100%" />
-    </td>
-    <td valign="top" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhimansha&theme=dark&layout=compact" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hhimansha&theme=dark&show_icons=true" style="width: 100%" />
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhimansha&theme=dark&layout=compact" style="width: 100%" />
+  </div>
+</div>
+
 
 
 <br/>  
