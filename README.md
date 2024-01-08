@@ -82,11 +82,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=hhimansha&theme=dark&show_icons=true" align="left" style="width: 100%" />
 <table><tr><td valign="top" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=hhimansha&theme=dark&show_icons=true" align="left" style="width: 100%" />
+
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhimansha&theme=dark&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
