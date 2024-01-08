@@ -85,10 +85,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; padding-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hhimansha&theme=dark&show_icons=true" style="width: 100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hhimansha&theme=dark&show_icons=true" style="width: 50%" />
   </div>
   <div style="flex: 1; padding-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhimansha&theme=dark&layout=compact" style="width: 100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhimansha&theme=dark&layout=compact" style="width: 50%" />
   </div>
 </div>
 
