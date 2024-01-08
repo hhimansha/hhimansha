@@ -93,7 +93,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hhimansha&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhimansha&theme=dark&layout=compact&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhimansha&theme=dark&layout=compact&card_width=280" />
 </a>
 
 <br/>  
