@@ -85,16 +85,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </a>
 
 <br/>  
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hhimansha&show_icons=true&locale=en" alt="hhimansha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hhimansha&" alt="hhimansha" /></p>
-
 <br/>  
-  
-
 <br/>  
-
-
 <br />
 
