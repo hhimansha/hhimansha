@@ -86,7 +86,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
@@ -100,7 +99,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
 
 <br/>  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
 
