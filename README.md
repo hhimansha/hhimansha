@@ -42,7 +42,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
 
 - ⚡ Fun fact: I keep night shift switched on at all times   
-
+</table>
 <br/>  
 
 
