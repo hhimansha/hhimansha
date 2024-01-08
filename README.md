@@ -35,7 +35,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working as a freelancer at [Github Profilinator](https://fiverr.com)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
