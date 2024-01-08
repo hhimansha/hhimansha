@@ -43,9 +43,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 - ⚡ Fun fact: I keep night shift switched on at all times   
 
-
-</td></tr></table>  
-<img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ3MzkxNjksIm5iZiI6MTcwNDczODg2OSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA4VDE4MzQyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQyYTdmZjI3NDE4ODE0ODA3MGFlY2EwNzI2ZWNmNTBlYTJmZmNhYWI2NDk3N2Q2Y2QyMWIwNGFkMjEzMjcwNmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MRBxvA7wFVOfgSMvnGYmXS-fPJ0QxEVuehM4-wnIai4" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <br/>  
 
 
