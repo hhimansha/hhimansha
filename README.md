@@ -30,7 +30,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex;">
   <table>
     <tr>
       <td valign="top" width="50%">
