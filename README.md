@@ -1,3 +1,6 @@
+<img src="animatedgif.gif"/>
+</a>
+
 ## Hey 👋, I'm Haritha Himansha!  
   
 
