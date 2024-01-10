@@ -50,10 +50,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
   <img src="animatedgif.gif" style="width: 200px;" />
 </div>
 
-
-  
-</div>
-
 <br/>  
 
 
