@@ -21,9 +21,7 @@
 
 
 ### Glad to see you here!  
-I’m a front-end developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+I am an aspiring software engineer with a passion for transforming creative ideas into tangible digital experiences. As an undergraduate student, I am deeply immersed in the world of front-end web development, working on diverse projects that showcase my commitment to innovation and design. My journey extends beyond the client-facing realm, as I am dedicated to mastering the intricacies of full-stack development. I thrive on building robust backends that seamlessly handle the heavy lifting for applications, crafting systems that are both lightweight and powerful, distributed yet synchronized. My enthusiasm for the tech world extends to my blog, where I share insights into system designs, databases, security, servers, optimization, and explore emerging technologies like Blockchain and PWAs. Join me on this exciting journey as I delve into the ever-evolving landscape of software technologies, constantly pushing boundaries to create beautiful and effective solutions.
   
 
 <br/>  
@@ -87,12 +85,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## Github Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hhimansha&theme=dark&show_icons=true&card_width=320&rank_icon=github" style="padding-right: 30px;"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhimansha&theme=dark&layout=compact&card_width=280" />
-</a>
+
 
 <br/>  
 <br/>  
