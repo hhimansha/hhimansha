@@ -1,6 +1,3 @@
-<img src="animatedgif.gif"/>
-</a>
-
 ## Hey 👋, I'm Haritha Himansha!  
   
 
@@ -44,7 +41,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ❓ Ask me about anything related to front-end web development and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift switched on at all times   
+- ⚡ Fun fact: I keep night shift switched on at all times
+
+  </td>
+  <td> <img src="animatedgif.gif"/>
+  </td>
 </table>
 <br/>  
 
