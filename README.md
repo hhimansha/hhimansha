@@ -30,7 +30,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-<table border="none"><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working as a freelancer at [Fiverr](https://fiverr.com)  
   
@@ -44,11 +44,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ⚡ Fun fact: I keep night shift switched on at all times
 
   </td>
- <td width="30%" style="border: none; text-align: right;">
-  <img src="animatedgif.gif" style="width: 200px;"/>
-</td>
-
 </table>
+ <img src="animatedgif.gif" style="width: 200px;"/>
 <br/>  
 
 
