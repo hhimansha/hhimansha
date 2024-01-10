@@ -44,8 +44,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ⚡ Fun fact: I keep night shift switched on at all times
 
   </td>
-  <td width="30%" style="border: none;"> <img src="animatedgif.gif" style="width: 200px;"/>
-  </td>
+ <td width="30%" style="border: none; text-align: right;">
+  <img src="animatedgif.gif" style="width: 200px;"/>
+</td>
+
 </table>
 <br/>  
 
