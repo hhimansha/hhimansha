@@ -30,24 +30,25 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-<div style="display: flex; align-items: flex-start;">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
-        - 🔭 I’m currently working as a freelancer at [Fiverr](https://fiverr.com)
+- 🔭 I’m currently working as a freelancer at [Fiverr](https://fiverr.com)  
+  
 
-        - 🌱 I’m currently learning MERN stack to explore the full stack
+- 🌱 I’m currently learning MERN stack to explore the full stack
+  
 
-        - ❓ Ask me about anything related to front-end web development and related technologies
+- ❓ Ask me about anything related to front-end web development and related technologies  
+  
 
-        - ⚡ Fun fact: I keep night shift switched on at all times
+- ⚡ Fun fact: I keep night shift switched on at all times
 
-      </td>
-    </tr>
-  </table>
-
+  </td>
+</table>
+<td border="none">
   <img src="animatedgif.gif" style="width: 200px;" />
+</td>
+  
 </div>
 
 <br/>  
