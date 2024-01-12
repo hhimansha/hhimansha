@@ -29,24 +29,23 @@ I am an aspiring software engineer with a passion for transforming creative idea
 
 ## Rapidfire  
 <div style="display: flex;">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
+<div style="display: flex; width: 100%;">
+  <div style="width: 50%; padding-right: 30px;">
 
-  - 🔭 I’m currently working as a freelancer at [Fiverr](https://fiverr.com)  
+    - 🔭 I’m currently working as a freelancer at [Fiverr](https://fiverr.com)  
     
   
-  - 🌱 I’m currently learning MERN stack to explore the full stack
+    - 🌱 I’m currently learning MERN stack to explore the full stack
     
   
-  - ❓ Ask me about anything related to front-end web development and related technologies  
+    - ❓ Ask me about anything related to front-end web development and related technologies  
     
   
-  - ⚡ Fun fact: I keep night shift switched on at all times
+    - ⚡ Fun fact: I keep night shift switched on at all times
   
-    </td>
-    </tr>
-  </table>
+  </div>
+</div>
+
 
   <img src="animatedgif.gif" style="width: 200px;" />
 </div>
