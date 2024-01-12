@@ -28,8 +28,8 @@ I am an aspiring software engineer with a passion for transforming creative idea
 
 
 ## Rapidfire  
-<div style="display: flex; width: 100%;">
-  <div style="width: 50%; padding-right: 30px;">
+<div style="display: flex; width: 80%;">
+  <div style="padding-right: 30px;">
 
   - 🔭 I’m currently working as a freelancer at [Fiverr](https://fiverr.com)  
   
