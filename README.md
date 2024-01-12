@@ -28,7 +28,6 @@ I am an aspiring software engineer with a passion for transforming creative idea
 
 
 ## Rapidfire  
-<div style="display: flex;">
 <div style="display: flex; width: 100%;">
   <div style="width: 50%; padding-right: 30px;">
 
@@ -45,10 +44,6 @@ I am an aspiring software engineer with a passion for transforming creative idea
   
   </div>
     <img src="animatedgif.gif" style="width: 200px;" />
-</div>
-
-
-
 </div>
 
 <br/>  
