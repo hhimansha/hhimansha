@@ -85,12 +85,12 @@ I am an aspiring software engineer with a passion for transforming creative idea
 
 ## Github Stats
 
-
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hhimansha&theme=dark&show_icons=true&card_width=50%&rank_icon=github" style="padding-right: 30px;"/>
-
-
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhimansha&theme=dark&layout=compact&card_width=50%" />
-
+<table>
+  <tr>
+    <td><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hhimansha&theme=dark&show_icons=true&card_width=50%&rank_icon=github" style="padding-right: 30px;"/></td>
+    <td><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhimansha&theme=dark&layout=compact&card_width=50%" /></td>
+  </tr>
+</table>
 
 <br/>  
 <br/>  
