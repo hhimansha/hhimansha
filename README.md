@@ -44,10 +44,11 @@ I am an aspiring software engineer with a passion for transforming creative idea
   - ⚡ Fun fact: I keep night shift switched on at all times
   
   </div>
+    <img src="animatedgif.gif" style="width: 200px;" />
 </div>
 
 
-  <img src="animatedgif.gif" style="width: 200px;" />
+
 </div>
 
 <br/>  
